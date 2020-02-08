@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: ad9afb09a1d9e234693c6743319f2a11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5241483080409042605
+    second: back_blenny_preview_SS_0
+  - first:
+      213: -8750290741593367
+    second: back_blenny_preview_SS_1
+  - first:
+      213: 1957439516459636466
+    second: back_blenny_preview_SS_2
+  - first:
+      213: 8612124977468859484
+    second: back_blenny_preview_SS_3
+  - first:
+      213: 6378636331393752283
+    second: back_blenny_preview_SS_4
+  - first:
+      213: 6289173558000050038
+    second: back_blenny_preview_SS_5
+  - first:
+      213: -9086466666391530309
+    second: back_blenny_preview_SS_6
+  - first:
+      213: 589764535001751298
+    second: back_blenny_preview_SS_7
+  - first:
+      213: 2861944817868215814
+    second: back_blenny_preview_SS_8
+  - first:
+      213: 195780644322244645
+    second: back_blenny_preview_SS_9
+  - first:
+      213: -8358219717386322611
+    second: back_blenny_preview_SS_10
+  - first:
+      213: 8827608182777352987
+    second: back_blenny_preview_SS_11
+  - first:
+      213: 4571076134030252291
+    second: back_blenny_preview_SS_12
+  - first:
+      213: -1831031764624755009
+    second: back_blenny_preview_SS_13
+  - first:
+      213: -3456477556260104223
+    second: back_blenny_preview_SS_14
+  - first:
+      213: 1323758053333120072
+    second: back_blenny_preview_SS_15
+  - first:
+      213: -3742714142421352193
+    second: back_blenny_preview_SS_16
+  - first:
+      213: 48005651699079067
+    second: back_blenny_preview_SS_17
+  - first:
+      213: 3612585661411169483
+    second: back_blenny_preview_SS_18
+  - first:
+      213: 7426648529959014436
+    second: back_blenny_preview_SS_19
+  - first:
+      213: 4704504125128489043
+    second: back_blenny_preview_SS_20
+  - first:
+      213: 7596752904601199200
+    second: back_blenny_preview_SS_21
+  - first:
+      213: 873210552789277823
+    second: back_blenny_preview_SS_22
+  - first:
+      213: -4258731379701392209
+    second: back_blenny_preview_SS_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1025
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 4909
+        width: 946
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddf41a6da3e9de4085192af8337e821
+      internalID: -5241483080409042605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_1
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 4912
+        width: 949
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba7556aaa34cd24ebd4c029634c569a
+      internalID: -8750290741593367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_2
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 4915
+        width: 949
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa584309593be864e8dbeea3d2385fd0
+      internalID: 1957439516459636466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_3
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 4918
+        width: 946
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb81abe116875341bec9ccd17bdbfab
+      internalID: 8612124977468859484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_4
+      rect:
+        serializedVersion: 2
+        x: 4926
+        y: 4915
+        width: 947
+        height: 1016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8af304f8774db141bc2b750438a6efe
+      internalID: 6378636331393752283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3713
+        width: 948
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30395123a77618c49955bfb6664da85e
+      internalID: 6289173558000050038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_6
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 3713
+        width: 946
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8637e2d635e906342b4f798bfcd4ed34
+      internalID: -9086466666391530309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_7
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 3710
+        width: 949
+        height: 1032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5e4636fb3d7c54b963bea448339835
+      internalID: 589764535001751298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_8
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 3711
+        width: 946
+        height: 1028
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a04c8fdb9eac74abc444bd1e608bdc
+      internalID: 2861944817868215814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_9
+      rect:
+        serializedVersion: 2
+        x: 4926
+        y: 3713
+        width: 946
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b099665a0468949a34a489ffdef64e
+      internalID: 195780644322244645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_10
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2515
+        width: 947
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea2c5a2ed8331140bb96a3af362b2da
+      internalID: -8358219717386322611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_11
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2514
+        width: 946
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41087fc021696ab44b19db6da5470cf7
+      internalID: 8827608182777352987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_12
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 2509
+        width: 949
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10b9ae9d3489b64ab2f8be6ae19cfac
+      internalID: 4571076134030252291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_13
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 2503
+        width: 946
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644a2229f5f384047924cdd806003be3
+      internalID: -1831031764624755009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_14
+      rect:
+        serializedVersion: 2
+        x: 4926
+        y: 2501
+        width: 947
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1993dc9123bcc47862bcd3df535fc7
+      internalID: -3456477556260104223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1294
+        width: 949
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3841b2b745db2c43a5ee5f48ec8c7ea
+      internalID: 1323758053333120072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_16
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1294
+        width: 946
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd636f9e2a8f1247bb0926076ae0624
+      internalID: -3742714142421352193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_17
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 1296
+        width: 949
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18954ed9da143384ab1a777a19bca120
+      internalID: 48005651699079067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_18
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 1299
+        width: 946
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb9171284e0154fb4a1f032d2cbed5
+      internalID: 3612585661411169483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_19
+      rect:
+        serializedVersion: 2
+        x: 4926
+        y: 1302
+        width: 947
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbee9bd88273bf345b9cfd016ad2050d
+      internalID: 7426648529959014436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 101
+        width: 949
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feab48c4d7c38504d9b864e18dbcf862
+      internalID: 4704504125128489043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_21
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 104
+        width: 946
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaa18c8998e5a94d8767adf2954dbad
+      internalID: 7596752904601199200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_22
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 105
+        width: 949
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689c960de22b37a409d87164fd6622bd
+      internalID: 873210552789277823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_blenny_preview_SS_23
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 107
+        width: 946
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddf2ae0433576d4e8aca25e2d20c654
+      internalID: -4258731379701392209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

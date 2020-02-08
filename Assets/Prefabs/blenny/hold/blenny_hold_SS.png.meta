@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: c7963afd1185d3949afd780e80091a9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -204792331472112159
+    second: blenny_hold_SS_0
+  - first:
+      213: -6753415054451405892
+    second: blenny_hold_SS_1
+  - first:
+      213: -6101522440805519492
+    second: blenny_hold_SS_2
+  - first:
+      213: 5800461488248198019
+    second: blenny_hold_SS_3
+  - first:
+      213: -3629372785877099513
+    second: blenny_hold_SS_4
+  - first:
+      213: 1613887643443054706
+    second: blenny_hold_SS_5
+  - first:
+      213: 6554897797376492848
+    second: blenny_hold_SS_6
+  - first:
+      213: -7348933645528317420
+    second: blenny_hold_SS_7
+  - first:
+      213: 3360798263557093191
+    second: blenny_hold_SS_8
+  - first:
+      213: 3333159652420512954
+    second: blenny_hold_SS_9
+  - first:
+      213: 7168856585781293120
+    second: blenny_hold_SS_10
+  - first:
+      213: 7606701849453866229
+    second: blenny_hold_SS_11
+  - first:
+      213: -8367653026132770982
+    second: blenny_hold_SS_12
+  - first:
+      213: 4932220810539091695
+    second: blenny_hold_SS_13
+  - first:
+      213: 5375048219182223022
+    second: blenny_hold_SS_14
+  - first:
+      213: -2101561336385527641
+    second: blenny_hold_SS_15
+  - first:
+      213: -3094101619183424014
+    second: blenny_hold_SS_16
+  - first:
+      213: 3402761291892326540
+    second: blenny_hold_SS_17
+  - first:
+      213: 4254951322496072355
+    second: blenny_hold_SS_18
+  - first:
+      213: 4836589126780019809
+    second: blenny_hold_SS_19
+  - first:
+      213: 790750757769274001
+    second: blenny_hold_SS_20
+  - first:
+      213: 6627296148540321599
+    second: blenny_hold_SS_21
+  - first:
+      213: -2511702163353194587
+    second: blenny_hold_SS_22
+  - first:
+      213: 8698805764202142215
+    second: blenny_hold_SS_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blenny_hold_SS_0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 5049
+        width: 873
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f24799cae56fed4d8b59f4010f58955
+      internalID: -204792331472112159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_1
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 5046
+        width: 873
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b02edb2a5f7c64f82f036b3e00b6ef
+      internalID: -6753415054451405892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_2
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 5043
+        width: 873
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bc8770c5015a8429709015e5660a6a
+      internalID: -6101522440805519492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_3
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 5038
+        width: 873
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b524891592079274d91bf6523a914246
+      internalID: 5800461488248198019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_4
+      rect:
+        serializedVersion: 2
+        x: 4953
+        y: 5035
+        width: 873
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f8f9e1ecaeccc4ba7bdfeb988c4fc6
+      internalID: -3629372785877099513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3831
+        width: 876
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b91334280e8d05469286e668d09f89b
+      internalID: 1613887643443054706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_6
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 3828
+        width: 873
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f47d4618b1d5b4eb192f637d4f771b
+      internalID: 6554897797376492848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_7
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 3822
+        width: 873
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae626e80ac781dd40868f55451c804b7
+      internalID: -7348933645528317420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_8
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 3828
+        width: 878
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d4114fd8c712e4abff2c9e1c09af16
+      internalID: 3360798263557093191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_9
+      rect:
+        serializedVersion: 2
+        x: 4953
+        y: 3836
+        width: 873
+        height: 745
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933a149aeeec3964a85e6203d6415523
+      internalID: 3333159652420512954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2641
+        width: 876
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b9a8eaf88286740b9df5fcb4a11fd9
+      internalID: 7168856585781293120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_11
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 2650
+        width: 873
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199686dbedf425c449cec0b7b922133b
+      internalID: 7606701849453866229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_12
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 2656
+        width: 873
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ec5e1d027c62b40bc53d8cc8bbd4bf
+      internalID: -8367653026132770982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_13
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 2665
+        width: 875
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3c35b2168502c4d965e4e8745fd5c4
+      internalID: 4932220810539091695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_14
+      rect:
+        serializedVersion: 2
+        x: 4953
+        y: 2671
+        width: 873
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104884531b57e054a817b4dfa0eb12c9
+      internalID: 5375048219182223022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1478
+        width: 876
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d2cd164c585204f8b46a20536194a1
+      internalID: -2101561336385527641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_16
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1487
+        width: 873
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c909ec6a1d465c48a83b37350b16068
+      internalID: -3094101619183424014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_17
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 1484
+        width: 873
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d349fdc8b1c4c42a7d6aa92e376de0
+      internalID: 3402761291892326540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_18
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 1477
+        width: 875
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a105347c7a3e950428ce8eef6719d467
+      internalID: 4254951322496072355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_19
+      rect:
+        serializedVersion: 2
+        x: 4953
+        y: 1472
+        width: 873
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd44b6acea64ca48adccbc56abf5135
+      internalID: 4836589126780019809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 265
+        width: 876
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca69d446f10672547921c15324628b71
+      internalID: 790750757769274001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_21
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 257
+        width: 875
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417bf4d8064f71f47ad3a781a550c834
+      internalID: 6627296148540321599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_22
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 254
+        width: 873
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb2cc8de8d91664f971b2facf549e3c
+      internalID: -2511702163353194587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blenny_hold_SS_23
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 251
+        width: 873
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b042b19b765f393478ad473dc753b951
+      internalID: 8698805764202142215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
